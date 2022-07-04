@@ -1,0 +1,14 @@
+name: rides_repository
+description: Dart package that acts as a repository for the Rides resource for Quer Carona
+version: 1.0.0
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^1.19.1
+  cloud_firestore: ^3.2.1
+  geoflutterfire: ^3.0.3

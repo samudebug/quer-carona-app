@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "536806295329",
+    "project_id": "quer-carona-e003e",
+    "storage_bucket": "quer-carona-e003e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536806295329:android:afad49f284ecf1d628a060",
+        "android_client_info": {
+          "package_name": "com.example.quer_carona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536806295329-fanfdm6nu2sc6iv25bu428f0pi3n7jpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQganYZEp_H8apZj7YYFfW1_FKEh06j4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536806295329-fanfdm6nu2sc6iv25bu428f0pi3n7jpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536806295329:android:8c1464f42daf33ec28a060",
+        "android_client_info": {
+          "package_name": "com.samuel.querc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536806295329-fanfdm6nu2sc6iv25bu428f0pi3n7jpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQganYZEp_H8apZj7YYFfW1_FKEh06j4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536806295329-fanfdm6nu2sc6iv25bu428f0pi3n7jpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
